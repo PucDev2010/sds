@@ -1,0 +1,15 @@
+{
+  "color": "Màu sắc",
+  "size": "Kích cỡ",
+  "stock": "sản phẩm sẵn có",
+  "addToCart": "Thêm vào giỏ hàng",
+  "buyNow": "Mua ngay",
+  "errorNoProductSelected": "Vui lòng chọn 1 sản phẩm.",
+  "errorProductOutOfQuantity": "Số lượng sản phẩm trong giỏ hàng vượt quá số lượng cho phép.",
+  "productDescription": "Mô tả sản phẩm",
+  "productReview": "Đánh giá sản phẩm",
+  "per": "trên",
+  "star": "sao",
+  "all": "Tất cả",
+  "total": "Tổng"
+}

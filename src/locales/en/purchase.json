@@ -1,0 +1,18 @@
+{
+  "paymentWithCard": "Payment via bank card",
+  "estimateTime": "Estimated delivery time",
+  "total": "Total",
+  "discount": "Discount",
+  "shipFee": "Ship fee",
+  "totalPayment": "Total payment",
+  "purchase": "Purchase",
+  "change": "Change",
+  "cod": "Cash On Delivery",
+  "notAddress": "Please select your delivery address",
+  "shipUnit": "Shipping Unit",
+  "shipNote": "We cooperate with the shipping unit of Fast Delivery (GHN) to bring the best quality of service.",
+  "noShipService": "Sorry!We can not find available shipservice. Please try again or change your loation.",
+  "applyOneVoucher": "A voucher is applied",
+  "canNotUseVoucher": "Vouchers cannot be applied. Please review the terms of use.",
+  "rePurchase": "Re Purchase"
+}

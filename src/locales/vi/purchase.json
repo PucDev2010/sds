@@ -1,0 +1,18 @@
+{
+  "paymentWithCard": "Thanh toán qua thẻ ngân hàng",
+  "estimateTime": "Thời gian giao hàng dự kiến",
+  "total": "Tổng tiền",
+  "discount": "Giảm giá",
+  "shipFee": "Phí vận chuyển",
+  "totalPayment": "Tổng thanh toán",
+  "purchase": "Mua hàng",
+  "change": "Thay đổi",
+  "cod": "Thanh toán khi nhận hàng",
+  "notAddress": "Vui lòng chọn địa chỉ giao hàng",
+  "shipUnit": "Đơn vị vận chuyển",
+  "shipNote": "Chúng tôi hợp tác với đơn vị vận chuyển của Giao Hàng Nhanh (GHN) nhằm mang lại chất lượng dịch vụ tốt nhất.",
+  "noShipService": "Xin lỗi! Chúng tôi không thể tìm thấy dịch vụ vận chuyển phù hợp. Vui lòng thử lại hoặc chọn địa chỉ giao hàng khác.",
+  "applyOneVoucher": "Một voucher được áp dụng",
+  "canNotUseVoucher": "Không thể áp dụng voucher. Vui lòng xem lại điều kiện sử dụng.",
+  "rePurchase": "Thanh toán lại"
+}

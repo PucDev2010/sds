@@ -1,0 +1,12 @@
+.cart-input-number .ant-input-number-group-addon {
+  padding: 0 !important;
+}
+.cart-shadow::before {
+  content: '';
+  position: absolute;
+  top: -1.25rem;
+  left: 0;
+  height: 1.25rem;
+  width: 100%;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.06));
+}

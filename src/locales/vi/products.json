@@ -1,0 +1,14 @@
+{
+  "filter": "BỘ LỌC",
+  "from": "Từ",
+  "to": "Đến",
+  "statusSale": "Giảm giá",
+  "statusNewArrival": "Hàng mới về",
+  "clearFilter": "Xóa bộ lọc",
+  "latest": "Mới nhất",
+  "selling": "Bán chạy",
+  "sortBy": "Sắp xếp theo",
+  "lowToHight": "Thấp đến Cao",
+  "hightToLow": "Cao đến Thấp",
+  "price": "Giá"
+}

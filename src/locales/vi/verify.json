@@ -1,0 +1,20 @@
+{
+  "titleVerification": "Xác thực tài khoản",
+  "titleUpdateInfomation": "Cập nhật thông tin",
+  "titleDone": "Hoàn thành",
+  "alert": "Chúng tôi đã gửi 1 email cho bạn. Vui lòng kiểm tra email và nhập mã xác thực.",
+  "resendCode": "Gửi lại!",
+  "verifyCode": "Mã xác thực",
+  "greeting": "Chào mừng bạn đã đến với website của chúng tôi.",
+  "codeError": "Mã xác thực gồm 4 kí tự",
+  "verificationDescription": "Thao tác này chỉ cần một vài phút. Vui lòng xác thực thông tin để sử dụng tất cả tính năng. Cảm ơn bạn vì đã sử dụng dịch vụ của chúng tôi.",
+  "verificationContact": "Nếu bạn gặp phải vấn đề gì, vui lòng liên hệ với chúng tôi:",
+  "updateInfoAdreesError": "Địa chỉ không hợp lệ",
+  "doneAlert": "Chúc mừng. Mọi thứ đã hoàn thành!",
+  "doneThanksPara": "Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi.",
+  "doneVisitWebsitePara": "Ghé thăm website của chúng tôi để có thêm trải nghiệm thú vị:",
+  "doneMaybeLikePara": "Có thể bạn sẽ thích:",
+  "doneSaleupLabel": "Khuyến mãi:",
+  "doneMostRatingLabel": "Sản phẩm :",
+  "doneReciveAdsLabel": "Nhấn vào đây để nhận khuyến mãi qua email:"
+}

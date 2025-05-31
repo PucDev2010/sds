@@ -1,0 +1,15 @@
+{
+  "color": "Color",
+  "size": "Size",
+  "stock": "in stock",
+  "addToCart": "Add to cart",
+  "buyNow": "Buy now",
+  "errorNoProductSelected": "Please select a product.",
+  "errorProductOutOfQuantity": "The number of products in the cart exceeds the allowed quantity.",
+  "productDescription": "Product description",
+  "productReview": "Product review",
+  "per": "per",
+  "star": "star",
+  "all": "All",
+  "total": "Total"
+}

@@ -1,0 +1,17 @@
+.sale-label {
+  z-index: 2;
+  background-color: rgba(255, 212, 36);
+  width: 36px;
+  height: 32px;
+}
+.sale-label::after {
+  content: '';
+  width: 0;
+  height: 0;
+  left: 0;
+  bottom: -4px;
+  position: absolute;
+  border-color: transparent rgba(255, 212, 36);
+  border-style: solid;
+  border-width: 0 18px 4px;
+}

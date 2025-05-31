@@ -1,0 +1,20 @@
+{
+  "titleVerification": "Verification",
+  "titleUpdateInfomation": "Update infomation",
+  "titleDone": "Done",
+  "alert": "We have sent you an verify email. Please check and enter your code!",
+  "resendCode": "Resend code!",
+  "verifyCode": "Verify code",
+  "greeting": "Welcome with us!",
+  "codeError": "Please enter code with 4 character",
+  "verificationDescription": "This set up only take a few minutes. To use all the features, please complete this set up. Thank you for using my service.",
+  "verificationContact": "If you get any problems. Please contact with us by:",
+  "updateInfoAdreesError": "Address is invalid",
+  "doneAlert": "Congratulation. Everything is done!",
+  "doneThanksPara": "Thank you for using my service",
+  "doneVisitWebsitePara": "Visit our website to have more experience:",
+  "doneMaybeLikePara": "You may be like:",
+  "doneSaleupLabel": "Sale up:",
+  "doneMostRatingLabel": "Most rating product:",
+  "doneReciveAdsLabel": "Click here to recieve advertisement by email:"
+}

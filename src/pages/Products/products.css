@@ -1,0 +1,17 @@
+.product-layout-padding {
+  padding: 0 10px;
+}
+.sort-btn-active {
+  background-color: #ff4d4f !important;
+  color: white;
+}
+@media (min-width: 992px) {
+  .product-layout-padding {
+    padding: 0 70px;
+  }
+}
+@media (min-width: 1200px) {
+  .product-layout-padding {
+    padding: 0 100px;
+  }
+}

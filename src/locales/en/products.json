@@ -1,0 +1,14 @@
+{
+  "filter": "FILTER",
+  "from": "From",
+  "to": "To",
+  "statusSale": "Sale",
+  "statusNewArrival": "New arrivals",
+  "clearFilter": "Clear filter",
+  "latest": "Latest",
+  "selling": "Selling",
+  "sortBy": "Sorted by",
+  "lowToHight": "Low to Hight",
+  "hightToLow": "Hight to Low",
+  "price": "Price"
+}
